@@ -368,10 +368,10 @@ p {
     border-bottom: 1px solid #FFF;
 }
 .primary-section, .primary-section .title p, .primary-section h3 {
-    color: #FECE1A;
+    color: gray;
 }
 .primary-section h1 {
-    color:#FFF;
+    color:White;
 }
 .secondary-section {
     background:gray;
@@ -527,12 +527,12 @@ p {
     margin:0;
     left: 10px;
     z-index: 1;
-    color: #181A1C;
+    color: White;
 }
 .skills li .bar {
     height:40px;
     position:absolute;
-    background-color: #FECE1A;
+    background-color: red;
 }
 /*
 3.4 Clients
@@ -608,8 +608,9 @@ p {
 3.5 Price table
 ******************************************************************/
  .price-table {
-    margin-top: 70px;
-    margin-bottom: 20px;
+    margin: 70px 0 20px;
+    width: 35%;
+    margin:0 auto;
 }
 .price-column {
     background-color:white;
@@ -617,9 +618,9 @@ p {
     -moz-border-radius: 10px;
     border-radius: 10px;
     padding-bottom:20px;
-    margin:0 auto;
     text-align:center;
 }
+
 .price-column h3 {
     background-color:#181A1C;
     text-transform:uppercase;
@@ -634,14 +635,14 @@ p {
 }
 .price-column .list{
     list-style:none;
-    margin:20px 50px;
+    margin:20px 40px;
 }
 .price-column .list li{
     font-weight:lighter;
     color:#747C89;
     font-size:20px;
     border-bottom:1px solid #747C89;
-    padding:25px 0px;
+    padding:35px 0px;
 }
 .price-column .list li.price {
     text-align: center;
