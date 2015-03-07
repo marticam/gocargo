@@ -368,10 +368,10 @@ p {
     border-bottom: 1px solid #FFF;
 }
 .primary-section, .primary-section .title p, .primary-section h3 {
-    color: #FECE1A;
+    color: gray;
 }
 .primary-section h1 {
-    color:#FFF;
+    color:White;
 }
 .secondary-section {
     background:gray;
@@ -527,12 +527,12 @@ p {
     margin:0;
     left: 10px;
     z-index: 1;
-    color: #181A1C;
+    color: White;
 }
 .skills li .bar {
     height:40px;
     position:absolute;
-    background-color: #FECE1A;
+    background-color: red;
 }
 /*
 3.4 Clients
