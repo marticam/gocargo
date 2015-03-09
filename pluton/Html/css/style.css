@@ -90,11 +90,11 @@ p {
     transition: border-color 1s ease;
 }
 .navbar .nav > li:hover> a, .navbar .nav > .active > a, .navbar .nav > .active > a:hover, .navbar .nav > .active > a:focus {
-    border: 1px solid red;
-    background: -webkit-linear-gradient(left, white 30%, red); /* For Safari 5.1 to 6.0 */
-    background: -o-linear-gradient(right, white 30%, red); /* For Opera 11.1 to 12.0 */
-    background: -moz-linear-gradient(right, white 30%, red); /* For Firefox 3.6 to 15 */
-    background: linear-gradient(to right, white 30%, red); /* Standard syntax (must be last) */
+    border: 1px solid #484B51;
+    background: -webkit-linear-gradient(left, #FFCCCC 10%, #FF3333); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(right, #FFCCCC 10%, #FF3333); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(right, #FFCCCC 10%, #FF3333); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to right, #FFCCCC 10%, #FF3333); /* Standard syntax (must be last) */
     color: #484B51;
     transition: border-color 1s ease;
 }
@@ -240,10 +240,10 @@ p {
     color:#181A1C;
 }
  .button2,  .button2:visited, .button2:focus {
-    background: -webkit-linear-gradient(left, white, red); /* For Safari 5.1 to 6.0 */
-    background: -o-linear-gradient(right, white, red); /* For Opera 11.1 to 12.0 */
-    background: -moz-linear-gradient(right, white, red); /* For Firefox 3.6 to 15 */
-    background: linear-gradient(to right, white, red); /* Standard syntax (must be last) */
+    background: -webkit-linear-gradient(left, #FFCCCC, #FF3333); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(right, #FFCCCC, #FF3333); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(right, #FFCCCC, #FF3333); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to right, #FFCCCC, #FF3333); /* Standard syntax (must be last) */
     color: #484B51;
     display:inline-block;
     border:1px solid #85878B;
@@ -648,10 +648,10 @@ p {
 .price-column h3 {
     /*background-color:#181A1C;*/
     background-color:#B80000;
-    background: -webkit-linear-gradient(left, rgba(255,0,0,0), rgba(255,0,0,1)); /* For Safari 5.1 to 6.0 */
-    background: -o-linear-gradient(right, rgba(255,0,0,0), rgba(255,0,0,1)); /* For Opera 11.1 to 12.0 */
-    background: -moz-linear-gradient(right, rgba(255,0,0,0), rgba(255,0,0,1)); /* For Firefox 3.6 to 15 */
-    background: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1)); /* Standard syntax (must be last) */
+    background: -webkit-linear-gradient(left, #FFCCCC, #FF3333); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(right, #FFCCCC, #FF3333); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(right, #FFCCCC, #FF3333); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to right, #FFCCCC, #FF3333); /* Standard syntax (must be last) */
     text-transform:uppercase;
     text-align: center;
     color: #484B51;
